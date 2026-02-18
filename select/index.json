@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "OUR DAYS",
+  "base_artist": "KMNZ",
+  "createdAt": "2026-02-18T14:17:07.894933Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Remember Our Days",
+      "artist": "Lotus Plaza",
+      "has_synced": false,
+      "path": "select/01_Remember_Our_Days_Lotus_Plaza.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Our Days Are Numbered",
+      "artist": "We Are the Ocean",
+      "has_synced": true,
+      "path": "select/02_Our_Days_Are_Numbered_We_Are_the_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Our Days Are Numbered",
+      "artist": "We Are The Ocean",
+      "has_synced": false,
+      "path": "select/03_Our_Days_Are_Numbered_We_Are_The_Ocean.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "All Our Days Are Numbered",
+      "artist": "Big Wreck",
+      "has_synced": true,
+      "path": "select/04_All_Our_Days_Are_Numbered_Big_Wreck.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "To the End of Our Days",
+      "artist": "Alestorm",
+      "has_synced": false,
+      "path": "select/05_To_the_End_of_Our_Days_Alestorm.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "To the End of our Days",
+      "artist": "Alestorm",
+      "has_synced": false,
+      "path": "select/06_To_the_End_of_our_Days_Alestorm.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Our Days Are Numbered",
+      "artist": "Aquilo",
+      "has_synced": false,
+      "path": "select/07_Our_Days_Are_Numbered_Aquilo.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Our Days in Kansas",
+      "artist": "Tullycraft",
+      "has_synced": false,
+      "path": "select/08_Our_Days_in_Kansas_Tullycraft.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "End of Our Days",
+      "artist": "Howie Day",
+      "has_synced": true,
+      "path": "select/09_End_of_Our_Days_Howie_Day.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "All Our Days",
+      "artist": "Jeff Williams feat. Casey Lee Williams",
+      "has_synced": true,
+      "path": "select/10_All_Our_Days_Jeff_Williams_feat._Casey_Lee_Williams.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "All Our Days",
+      "artist": "Jeff Williams & Casey Lee Williams",
+      "has_synced": true,
+      "path": "select/11_All_Our_Days_Jeff_Williams_&_Casey_Lee_Williams.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "End Of Our Days",
+      "artist": "Archive",
+      "has_synced": true,
+      "path": "select/12_End_Of_Our_Days_Archive.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "End of Our Days",
+      "artist": "Archive",
+      "has_synced": true,
+      "path": "select/13_End_of_Our_Days_Archive.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "All Our Days",
+      "artist": "Jeff Williams & Casey Lee Williams",
+      "has_synced": true,
+      "path": "select/14_All_Our_Days_Jeff_Williams_&_Casey_Lee_Williams.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "All Our Days",
+      "artist": "Jeff Williams feat. Casey Lee Williams",
+      "has_synced": true,
+      "path": "select/15_All_Our_Days_Jeff_Williams_feat._Casey_Lee_Williams.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "All Our Days (feat. Casey Lee Williams)",
+      "artist": "Casey Lee Williams",
+      "has_synced": true,
+      "path": "select/16_All_Our_Days_(feat._Casey_Lee_Williams)_Casey_Lee_Williams.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "OUR DAYS",
+      "artist": "KMNZ",
+      "has_synced": false,
+      "path": "select/pl_01_OUR_DAYS_KMNZ.txt"
+    }
+  ]
+}
